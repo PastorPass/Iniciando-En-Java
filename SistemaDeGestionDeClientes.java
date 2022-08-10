@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
 package com.mycompany.sistemagestion;
 
@@ -10,10 +6,7 @@ import java.util.List;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author pastor
- */
+
 public class Formulario extends javax.swing.JFrame {
 
     /** Creates new form Formulario */
